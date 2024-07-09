@@ -19,3 +19,4 @@
 - 사고 조회 기능
 - 개인 정보 조회 및 수정 기능
 ## 시연 영상
+https://github.com/Noil0909/2022-P-Project/assets/115891974/e3744381-985d-4cfd-8119-edf4dfd5ca92
